@@ -1,0 +1,26 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.accessibilitySupport": "off",
+    "editor.trimAutoWhitespace": false,
+    "editor.dragAndDrop": false,
+    "editor.lineNumbers": "interval",
+    "editor.padding.bottom": 400,
+    "editor.rulers": [
+        80
+    ],
+    "editor.scrollBeyondLastLine": false,
+    "editor.cursorSurroundingLines": 1,
+    "editor.minimap.enabled": false,
+    "editor.suggest.localityBonus": true,
+    "editor.suggest.preview": true,
+    "swiftformat.path": "/opt/homebrew/bin/swiftformat",
+    "workbench.commandPalette.preserveInput": true,
+    "workbench.quickOpen.preserveInput": true,
+    "breadcrumbs.icons": false,
+    "workbench.editor.closeEmptyGroups": false,
+    "window.autoDetectColorScheme": true,
+    "window.clickThroughInactive": false,
+    "debug.toolBarLocation": "docked",
+    "editor.acceptSuggestionOnEnter": "off",
+    "workbench.editor.historyBasedLanguageDetection": true
+}
