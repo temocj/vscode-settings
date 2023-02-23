@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "Default Dark+",
     "editor.accessibilitySupport": "off",
     "editor.trimAutoWhitespace": false,
     "editor.dragAndDrop": false,
@@ -22,5 +21,17 @@
     "window.clickThroughInactive": false,
     "debug.toolBarLocation": "docked",
     "editor.acceptSuggestionOnEnter": "off",
-    "workbench.editor.historyBasedLanguageDetection": true
+    "files.insertFinalNewline": true,
+    "window.autoDetectHighContrast": false,
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "inline",
+        "strings": "inline"
+    },
+    "editor.find.seedSearchStringFromSelection": "never",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.suggest.insertMode": "replace",
+    "window.zoomLevel": 1,
+    "explorer.autoReveal": false
 }
